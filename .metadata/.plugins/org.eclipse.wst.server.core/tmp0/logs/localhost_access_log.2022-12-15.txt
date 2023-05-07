@@ -1,0 +1,8 @@
+127.0.0.1 - - [15/Dec/2022:00:05:52 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Dec/2022:00:05:53 +0530] "GET /webDemo/welcome HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [15/Dec/2022:00:09:33 +0530] "GET /webDemo/login.jsp?username=sumit&username=1234 HTTP/1.1" 200 313
+0:0:0:0:0:0:0:1 - - [15/Dec/2022:00:15:19 +0530] "GET /webDemo/login.jsp?username=sumit&username=1234 HTTP/1.1" 200 313
+0:0:0:0:0:0:0:1 - - [15/Dec/2022:00:15:26 +0530] "GET /webDemo/login.jsp?username=&username= HTTP/1.1" 200 313
+127.0.0.1 - - [15/Dec/2022:00:18:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Dec/2022:00:18:06 +0530] "GET /webDemo/login.jsp HTTP/1.1" 200 313
+0:0:0:0:0:0:0:1 - - [15/Dec/2022:00:18:26 +0530] "GET /webDemo/login.jsp?userName=sumit&username=1234 HTTP/1.1" 200 313

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;hibernate.cgf.xml&apos; to &apos;Kalin/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;demo&apos;&#x0D;&#x0A;- Destination element: &apos;Kalin/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;hibernate.cgf.xml&apos;" description="Copy file" destination="=Kalin/src\/main\/resources" element1="src/hibernate.cgf.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1671631339055" units="0" version="1.0"/>
+</session>
